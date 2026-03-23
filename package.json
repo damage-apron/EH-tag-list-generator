@@ -1,0 +1,25 @@
+{
+  "name": "eh-tag-list-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "main": "tsc -b && node dist/main.js"
+  },
+  "keywords": [],
+  "author": "damage apron",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/he": "^1.2.3",
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "he": "^1.2.0",
+    "jsonc-parser": "^3.3.1"
+  }
+}
