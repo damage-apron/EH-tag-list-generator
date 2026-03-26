@@ -100,6 +100,8 @@ Main outputs are created under `data`:
 - `data/jsonc/data1.jsonc`: final integrated data (JSONC)
 - `data/json/*.json`: JSON files automatically converted from all `.jsonc` files under `data/jsonc`
 
+The actual converted datasets are published in the public repository [EH-tag-list](https://github.com/damage-apron/EH-tag-list/).
+
 ## Development
 
 To run build only:

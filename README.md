@@ -95,6 +95,8 @@ npm run main
 - `data/jsonc/data1.jsonc`: 最終統合データ (JSONC)
 - `data/json/*.json`: `data/jsonc` 配下の全 `.jsonc` から自動変換された JSON
 
+実際の変換データは、公開用リポジトリ [EH-tag-list](https://github.com/damage-apron/EH-tag-list/) で配布しています。
+
 ## 開発
 
 ビルドのみ実行する場合:

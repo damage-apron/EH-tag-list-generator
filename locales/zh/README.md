@@ -100,6 +100,8 @@ npm run main
 - `data/jsonc/data1.jsonc`: 最终整合数据 (JSONC)
 - `data/json/*.json`: 由 `data/jsonc` 下全部 `.jsonc` 自动转换得到的 JSON
 
+实际转换后的数据发布在公开仓库 [EH-tag-list](https://github.com/damage-apron/EH-tag-list/)。
+
 ## 开发
 
 仅执行构建:
