@@ -11,6 +11,8 @@ This file records the main change history of this project.
 
 ## [1.0.0] - 2026-03-27
 
+Initial release.
+
 ### Added
 
 - Added a TypeScript tag generation pipeline (`tag1` to `tag4`)
