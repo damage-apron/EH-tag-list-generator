@@ -1,7 +1,7 @@
 {
   "name": "eh-tag-list-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate and normalize Japanese EH wiki tag datasets into JSONC/JSON for localization workflows.",
   "main": "src/index.js",
   "exports": {
     ".": "./src/index.js"
@@ -9,7 +9,18 @@
   "scripts": {
     "main": "tsc -b && node dist/main.js"
   },
-  "keywords": [],
+  "keywords": [
+    "translation",
+    "localization",
+    "e-hentai",
+    "exhentai",
+    "hitomi",
+    "ehwiki",
+    "tag-generator",
+    "dataset",
+    "jsonc",
+    "typescript"
+  ],
   "author": "damage apron",
   "license": "MIT",
   "type": "module",
