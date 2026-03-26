@@ -15,6 +15,8 @@ If there is any difference, the Japanese source file takes precedence.
 
 - Japanese (source): [README.md](README.md)
 - English (localized): [locales/en/README.md](locales/en/README.md)
+- 中文(本地化): [locales/zh/README.md](locales/zh/README.md)
+- 한국어(로컬라이즈): [locales/ko/README.md](locales/ko/README.md)
 
 ## Overview
 

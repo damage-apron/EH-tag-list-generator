@@ -1,0 +1,38 @@
+此文件由 AI 翻译，可能包含不准确之处。
+如有差异，以日语原文为准。
+
+---
+
+# CHANGELOG
+
+语言分区跳转: [语言别 CHANGELOG](#语言别-changelog)
+
+此文件记录本项目的主要变更历史。
+
+## [1.0.0] - 2026-03-26
+
+### Added
+
+- 新增 TypeScript 标签生成流水线（`tag1` 到 `tag4`）
+- 新增按分类的中间数据生成与最终整合输出
+- 新增 JSONC 到 JSON 的转换处理
+- 新增 README 与 CHANGELOG 文档
+
+### Changed
+
+- 首次发布，暂无
+
+### Removed
+
+- 首次发布，暂无
+
+### Fixed
+
+- 首次发布，暂无
+
+## 语言别 CHANGELOG
+
+- 日本語(正本): [CHANGELOG.md](CHANGELOG.md)
+- English (localized): [locales/en/CHANGELOG.md](locales/en/CHANGELOG.md)
+- 中文(本地化): [locales/zh/CHANGELOG.md](locales/zh/CHANGELOG.md)
+- 한국어(로컬라이즈): [locales/ko/CHANGELOG.md](locales/ko/CHANGELOG.md)

@@ -29,3 +29,5 @@
 
 - 日本語(正本): [CHANGELOG.md](CHANGELOG.md)
 - English (localized): [locales/en/CHANGELOG.md](locales/en/CHANGELOG.md)
+- 中文(本地化): [locales/zh/CHANGELOG.md](locales/zh/CHANGELOG.md)
+- 한국어(로컬라이즈): [locales/ko/CHANGELOG.md](locales/ko/CHANGELOG.md)
