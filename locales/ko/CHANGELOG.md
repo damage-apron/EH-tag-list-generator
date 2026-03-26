@@ -18,18 +18,6 @@
 - JSONC에서 JSON으로 변환하는 처리 추가
 - README 및 CHANGELOG 문서 추가
 
-### Changed
-
-- 초기 릴리스로 해당 없음
-
-### Removed
-
-- 초기 릴리스로 해당 없음
-
-### Fixed
-
-- 초기 릴리스로 해당 없음
-
 ## 언어별 CHANGELOG
 
 - 일본어(원문): [CHANGELOG.md](../../CHANGELOG.md)

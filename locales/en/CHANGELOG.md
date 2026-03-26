@@ -18,18 +18,6 @@ This file records the main change history of this project.
 - Added conversion processing from JSONC to JSON
 - Added README and CHANGELOG documentation
 
-### Changed
-
-- Not applicable for the initial release
-
-### Removed
-
-- Not applicable for the initial release
-
-### Fixed
-
-- Not applicable for the initial release
-
 ## CHANGELOG by Language
 
 - Japanese (source): [CHANGELOG.md](../../CHANGELOG.md)

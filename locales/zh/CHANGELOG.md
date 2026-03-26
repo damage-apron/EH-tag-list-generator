@@ -18,18 +18,6 @@
 - 新增 JSONC 到 JSON 的转换处理
 - 新增 README 与 CHANGELOG 文档
 
-### Changed
-
-- 首次发布，暂无
-
-### Removed
-
-- 首次发布，暂无
-
-### Fixed
-
-- 首次发布，暂无
-
 ## 各语言 CHANGELOG
 
 - 日语(原文): [CHANGELOG.md](../../CHANGELOG.md)

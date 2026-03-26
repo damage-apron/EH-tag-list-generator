@@ -13,18 +13,6 @@
 - JSONC から JSON への変換処理を追加
 - ドキュメントとして README と CHANGELOG を追加
 
-### Changed
-
-- 初回リリースのため該当なし
-
-### Removed
-
-- 初回リリースのため該当なし
-
-### Fixed
-
-- 初回リリースのため該当なし
-
 ## 言語別 CHANGELOG
 
 - 日本語(正本): [CHANGELOG.md](CHANGELOG.md)
