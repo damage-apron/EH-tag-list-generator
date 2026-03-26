@@ -1,9 +1,9 @@
+# CHANGELOG
+
 이 파일은 AI 번역으로 작성되어 부정확한 내용이 포함될 수 있습니다.
 차이가 있을 경우 일본어 원문을 우선합니다.
 
 ---
-
-# CHANGELOG
 
 언어별 섹션으로 이동: [언어별 CHANGELOG](#언어별-changelog)
 
@@ -32,7 +32,7 @@
 
 ## 언어별 CHANGELOG
 
-- 日本語(正本): [CHANGELOG.md](CHANGELOG.md)
-- English (localized): [locales/en/CHANGELOG.md](locales/en/CHANGELOG.md)
-- 中文(本地化): [locales/zh/CHANGELOG.md](locales/zh/CHANGELOG.md)
-- 한국어(로컬라이즈): [locales/ko/CHANGELOG.md](locales/ko/CHANGELOG.md)
+- 일본어(원문): [CHANGELOG.md](../../CHANGELOG.md)
+- English (localized): [locales/en/CHANGELOG.md](../en/CHANGELOG.md)
+- 中文(本地化): [locales/zh/CHANGELOG.md](../zh/CHANGELOG.md)
+- 한국어(로컬라이즈): [locales/ko/CHANGELOG.md](../ko/CHANGELOG.md)

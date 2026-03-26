@@ -1,9 +1,9 @@
+# EH-tag-list-generator
+
 This file is localized using AI translation and may contain inaccuracies.
 If there is any difference, the Japanese source file takes precedence.
 
 ---
-
-# EH-tag-list-generator
 
 ## Language and Localization
 
@@ -13,10 +13,10 @@ If there is any difference, the Japanese source file takes precedence.
 
 ### README by Language
 
-- Japanese (source): [README.md](README.md)
-- English (localized): [locales/en/README.md](locales/en/README.md)
-- 中文(本地化): [locales/zh/README.md](locales/zh/README.md)
-- 한국어(로컬라이즈): [locales/ko/README.md](locales/ko/README.md)
+- Japanese (source): [README.md](../../README.md)
+- English (localized): [locales/en/README.md](../en/README.md)
+- 中文(本地化): [locales/zh/README.md](../zh/README.md)
+- 한국어(로컬라이즈): [locales/ko/README.md](../ko/README.md)
 
 ## Overview
 

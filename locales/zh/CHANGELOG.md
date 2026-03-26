@@ -1,11 +1,11 @@
+# CHANGELOG
+
 此文件由 AI 翻译，可能包含不准确之处。
 如有差异，以日语原文为准。
 
 ---
 
-# CHANGELOG
-
-语言分区跳转: [语言别 CHANGELOG](#语言别-changelog)
+跳转到语言分区: [各语言 CHANGELOG](#各语言-changelog)
 
 此文件记录本项目的主要变更历史。
 
@@ -30,9 +30,9 @@
 
 - 首次发布，暂无
 
-## 语言别 CHANGELOG
+## 各语言 CHANGELOG
 
-- 日本語(正本): [CHANGELOG.md](CHANGELOG.md)
-- English (localized): [locales/en/CHANGELOG.md](locales/en/CHANGELOG.md)
-- 中文(本地化): [locales/zh/CHANGELOG.md](locales/zh/CHANGELOG.md)
-- 한국어(로컬라이즈): [locales/ko/CHANGELOG.md](locales/ko/CHANGELOG.md)
+- 日语(原文): [CHANGELOG.md](../../CHANGELOG.md)
+- English (localized): [locales/en/CHANGELOG.md](../en/CHANGELOG.md)
+- 中文(本地化): [locales/zh/CHANGELOG.md](../zh/CHANGELOG.md)
+- 한국어(로컬라이즈): [locales/ko/CHANGELOG.md](../ko/CHANGELOG.md)

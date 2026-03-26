@@ -1,22 +1,22 @@
+# EH-tag-list-generator
+
 이 파일은 AI 번역으로 작성되어 부정확한 내용이 포함될 수 있습니다.
 차이가 있을 경우 일본어 원문을 우선합니다.
 
 ---
 
-# EH-tag-list-generator
+## 언어 및 현지화
 
-## 언어 및 로컬라이즈
-
-- 로컬라이즈 문서는 `locales` 아래에서 관리합니다.
+- 현지화 문서는 `locales` 아래에서 관리합니다.
 - 번역에는 AI를 사용합니다.
-- 로컬라이즈 버전은 참고용이며, 불일치가 있는 경우 일본어 원문을 우선합니다.
+- 현지화 버전은 참고용이며, 불일치가 있는 경우 일본어 원문을 우선합니다.
 
 ### 언어별 README
 
-- 日本語(正本): [README.md](README.md)
-- English (localized): [locales/en/README.md](locales/en/README.md)
-- 中文(本地化): [locales/zh/README.md](locales/zh/README.md)
-- 한국어(로컬라이즈): [locales/ko/README.md](locales/ko/README.md)
+- 일본어(원문): [README.md](../../README.md)
+- English (localized): [locales/en/README.md](../en/README.md)
+- 中文(本地化): [locales/zh/README.md](../zh/README.md)
+- 한국어(로컬라이즈): [locales/ko/README.md](../ko/README.md)
 
 ## 개요
 

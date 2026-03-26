@@ -1,9 +1,9 @@
+# CHANGELOG
+
 This file is localized using AI translation and may contain inaccuracies.
 If there is any difference, the Japanese source file takes precedence.
 
 ---
-
-# CHANGELOG
 
 Jump to language section: [CHANGELOG by Language](#changelog-by-language)
 
@@ -32,7 +32,7 @@ This file records the main change history of this project.
 
 ## CHANGELOG by Language
 
-- Japanese (source): [CHANGELOG.md](CHANGELOG.md)
-- English (localized): [locales/en/CHANGELOG.md](locales/en/CHANGELOG.md)
-- 中文(本地化): [locales/zh/CHANGELOG.md](locales/zh/CHANGELOG.md)
-- 한국어(로컬라이즈): [locales/ko/CHANGELOG.md](locales/ko/CHANGELOG.md)
+- Japanese (source): [CHANGELOG.md](../../CHANGELOG.md)
+- English (localized): [locales/en/CHANGELOG.md](../en/CHANGELOG.md)
+- 中文(本地化): [locales/zh/CHANGELOG.md](../zh/CHANGELOG.md)
+- 한국어(로컬라이즈): [locales/ko/CHANGELOG.md](../ko/CHANGELOG.md)

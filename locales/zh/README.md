@@ -1,9 +1,9 @@
+# EH-tag-list-generator
+
 此文件由 AI 翻译，可能包含不准确之处。
 如有差异，以日语原文为准。
 
 ---
-
-# EH-tag-list-generator
 
 ## 语言与本地化
 
@@ -13,12 +13,12 @@
 
 ### 各语言 README
 
-- 日本語(正本): [README.md](README.md)
-- English (localized): [locales/en/README.md](locales/en/README.md)
-- 中文(本地化): [locales/zh/README.md](locales/zh/README.md)
-- 한국어(로컬라이즈): [locales/ko/README.md](locales/ko/README.md)
+- 日语(原文): [README.md](../../README.md)
+- English (localized): [locales/en/README.md](../en/README.md)
+- 中文(本地化): [locales/zh/README.md](../zh/README.md)
+- 한국어(로컬라이즈): [locales/ko/README.md](../ko/README.md)
 
-## 概要
+## 概述
 
 这是一个基于 TypeScript 的生成工具，用于获取并整理 EH 标签信息，并以便于分发的 JSON / JSONC 格式输出。
 
@@ -33,7 +33,7 @@
 - 推荐使用 Node.js 20 及以上版本
 - npm
 
-事前准备:
+准备:
 
 - 下载本仓库完整文件（或使用 `git clone`）并放置在本地电脑上。
 - 在包含 `LICENSE` 等文件的项目根目录中执行以下命令（可使用 VS Code 终端，也可直接使用 PowerShell / 命令提示符）。
