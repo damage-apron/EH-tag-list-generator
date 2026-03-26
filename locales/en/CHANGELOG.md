@@ -9,7 +9,7 @@ Jump to language section: [CHANGELOG by Language](#changelog-by-language)
 
 This file records the main change history of this project.
 
-## [1.0.0] - 2026-03-26
+## [1.0.0] - 2026-03-27
 
 ### Added
 
