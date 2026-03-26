@@ -1,5 +1,16 @@
 # EH-tag-list-generator
 
+## 言語とローカライズ
+
+- ローカライズ文書は `locales` 配下で管理します。
+- 翻訳には AI を利用しています。
+- ローカライズ版は参考情報であり、不一致がある場合は日本語の正本を優先してください。
+
+### 言語別 README
+
+- 日本語(正本): [README.md](README.md)
+- English (localized): [locales/en/README.md](locales/en/README.md)
+
 ## 概要
 
 EH のタグ情報を取得・整形し、配布しやすい JSON / JSONC 形式へ変換して出力する TypeScript 製の生成ツールです。

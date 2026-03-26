@@ -1,0 +1,36 @@
+This file is localized using AI translation and may contain inaccuracies.
+If there is any difference, the Japanese source file takes precedence.
+
+---
+
+# CHANGELOG
+
+Jump to language section: [CHANGELOG by Language](#changelog-by-language)
+
+This file records the main change history of this project.
+
+## [1.0.0] - 2026-03-26
+
+### Added
+
+- Added a TypeScript tag generation pipeline (`tag1` to `tag4`)
+- Added intermediate category data generation and final integrated output
+- Added conversion processing from JSONC to JSON
+- Added README and CHANGELOG documentation
+
+### Changed
+
+- Not applicable for the initial release
+
+### Removed
+
+- Not applicable for the initial release
+
+### Fixed
+
+- Not applicable for the initial release
+
+## CHANGELOG by Language
+
+- Japanese (source): [CHANGELOG.md](CHANGELOG.md)
+- English (localized): [locales/en/CHANGELOG.md](locales/en/CHANGELOG.md)

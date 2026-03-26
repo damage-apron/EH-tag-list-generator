@@ -1,5 +1,7 @@
 # CHANGELOG
 
+言語別セクションへのジャンプ: [言語別 CHANGELOG](#言語別-changelog)
+
 このファイルは、本プロジェクトの主な変更履歴を記録します。
 
 ## [1.0.0] - 2026-03-26
@@ -22,3 +24,8 @@
 ### Fixed
 
 - 初回リリースのため該当なし
+
+## 言語別 CHANGELOG
+
+- 日本語(正本): [CHANGELOG.md](CHANGELOG.md)
+- English (localized): [locales/en/CHANGELOG.md](locales/en/CHANGELOG.md)
